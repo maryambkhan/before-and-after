@@ -1,9 +1,20 @@
-// after
-const a = 4;
-const b = 5;
+// before
+let num = 4;
+const num2 = 5;
 
-const printSum = function(a, b){
-  const total = (Number(a + b));
-  console.log(total);
+const printNumber = function(a, b){
+  console.log(`print number ${a} and  ${b}.`);
+  
 }
-printSum(a , b);
+printNumber(num, num2);
+
+
+// after
+// const a = 4;
+// const b = 5;
+
+// const printSum = function(a, b){
+//   const total = (Number(a + b));
+//   console.log(total);
+// }
+// printSum(a , b);
