@@ -1,6 +1,8 @@
-const  myAge = 24;
+const a = 4;
+const b = 5;
 
-const printNumber = function(age) {
- console.log(age);
+const printSum = function(a, b){
+  const total = (Number(a + b));
+  console.log(total);
 }
-printString(myAge);
+printSum(a , b);
