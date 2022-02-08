@@ -11,3 +11,4 @@
 - Next step i am going to work on string.js file
 - Well worked on all of the files before and after js code
 - Acept boolean
+- I was not happy the way i was working so idecided to leave both of my codes befor and after just commented out one of them
